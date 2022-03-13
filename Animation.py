@@ -11,7 +11,7 @@ RESET_COLOR = u"\u001B[0m\u001B[2D"
 
 # print ship with colors and leading spaces
 def Animation_print(position):
-    print('\n' * 10)
+    print('\n' * 100)
     print(RESET_COLOR)
     sp = " " * position
     print(sp + " |  ")
@@ -31,7 +31,7 @@ def animation():
 
     # loop control variables
     start = 0  # start at zero
-    distance = 100  # how many times to repeat
+    distance = 75  # how many times to repeat
     step = 2  # count by 2
 
     # loop purpose is to animate ship sailing
