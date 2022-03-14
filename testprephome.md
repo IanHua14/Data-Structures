@@ -2,4 +2,4 @@
 
 # TPT Home - Chase
 
-- [Week 0](testprep/week0)
+- [Week 0](testprep/Week0)
