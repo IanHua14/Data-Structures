@@ -27,7 +27,7 @@ People in poorer countries and areas will have a lesser chance of using technolo
 People that do have technology may be restricted to old software or hardware for various reasons
 The Pandemic was especially bad for some areas because when people had to quarantine they didn&rsquo;t have access to technology to work or school from home
 
-### ACtions
+### Actions
 Someone could make sure they are constantly updated on everything and try and get access to technology
 Someone who is empowered could offer another less fortunate person old computers or technology for a discounted price or free.
 Red tape blocking is not empowering because it restricts users of the internet to whatever the admins believe is right. We have that at DNHS with the wifi block
