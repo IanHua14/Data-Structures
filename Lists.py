@@ -115,9 +115,6 @@ def Fibonacci(n):
 
 
 
-# This code is contributed by Saket Modi
-# then corrected and improved by Himanshu Kanojiya
-
 
 
 
