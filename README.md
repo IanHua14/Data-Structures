@@ -1,4 +1,4 @@
-# Chase O - TRI 3 CSP 
+# Ian H - TRI 3 CSP 
 
 
 ### Tangibles
