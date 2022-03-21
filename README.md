@@ -9,3 +9,4 @@
 
 ### Review Tickets
 - [Week 0](https://github.com/ChaseOtt/Data-Structures/issues/1)
+- [Week 1](https://github.com/IanHua14/tri3/issues/2)
