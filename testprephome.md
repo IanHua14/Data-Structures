@@ -1,6 +1,6 @@
 {% include nav.html %}
 
-# TPT Home - Chase
+# TPT Home - Ian
 
 - [Week 0](testprep/week0)
 - [Week 1](testprep/week1)
