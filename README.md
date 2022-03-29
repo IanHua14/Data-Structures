@@ -3,13 +3,12 @@
 
 ### Tangibles
 
-| Role  | Scrum Board Tasks  | Commits  |  Runtime |
+| Role  | Scrum Board Tasks  | Runtime |
 |---|---|---|---|
-| Github Admin  | [Link]()  | [Link to Commits](https://github.com/ChaseOtt/Data-Structures/commits/main)  |  [Repl Link](https://replit.com/@ChaseOtt1/Data-Structures-Project) |
+| Github Admin  | [Link]()  |  [Repl](https://replit.com/@IanHua/ACTUALWORKING#Menu.py) |
 
 ### Review Tickets
-- [Week 0](https://github.com/ChaseOtt/Data-Structures/issues/1)
+- [Week 0](https://github.com/IanHua14/tri3/issues/1)
+- [Week 1](https://github.com/IanHua14/tri3/issues/2)
+- [Week 2](https://github.com/IanHua14/tri3/issues/3)
 
-
-This is my Replit
-<iframe frameborder="0" width="100%" height="500px" src="https://replit.com/@ChaseOtt1/Data-Structures-Project?lite=true"></iframe>
