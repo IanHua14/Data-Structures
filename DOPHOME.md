@@ -1,6 +1,6 @@
 {% include nav.html %}
 
-# Documentaion Of Project  - Chase
+# Documentaion Of Project  - Ian
 
-- [Week 0](DOP/Week0)
-- [Week 1](DOP/Week1)
+- [Week 0]
+- [Week 1]
